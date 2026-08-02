@@ -8,3 +8,9 @@ void setup() {
   }
 }
 
+void loop() {
+    fase1_ViaLibreNS();
+    fase2_TransicionNS();
+    fase3_ViaLibreEO();
+    fase4_TransicionEO();
+}
